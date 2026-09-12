@@ -18,7 +18,7 @@ const APP_CONFIG = {
    * Masukkan URL Web App anda selepas Deploy di Google Apps Script.
    * Jika dibiarkan kosong (""), sistem akan menggunakan storan tempatan (localStorage).
    */
-  googleAppsScriptUrl: "",
+  googleAppsScriptUrl: "https://script.google.com/macros/s/AKfycbz8LwxiqK30XvJoS-kk4mNEKwBeXFPrlHuAg5RKM1hkVaP2sPhahVC0FVE32bInhKp2/exec",
   
   // Had amaran beban guru ganti (waktu dalam sehari)
   overloadThresholdDaily: 8,
