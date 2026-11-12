@@ -33,7 +33,9 @@ const MASTER_TEACHERS = [
   "Pn. Yunizah Esun",
   "Pn. Zuraidah Hj. Marjin",
   "Pn. Zurinah Jubidi",
-  "Cik Anizah Anis Dalinsip"
+  "Cik Anizah Anis Dalinsip",
+  "Cik Prettnyrina Dualis",
+  "En. Cristito Kulah"
 ];
 
 // 4 Kumpulan Guru Bertugas
@@ -70,7 +72,8 @@ const TEACHER_GROUPS = {
     "Pn. Jamlinah Maliasan",
     "Pn. Muhayan Diman",
     "Pn. Zurinah Jubidi",
-    "En. Duin Lasig"
+    "En. Duin Lasig",
+    "Cik Prettnyrina Dualis"
   ]
 };
 
